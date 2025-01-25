@@ -1,6 +1,4 @@
-# License Type: Custom License (Derived from CC BY-NC-ND 4.0)
-
-Custom License for Zylint
+# License: Custom License (Based on CC BY-NC-ND 4.0)
 
 This software and associated documentation files (the "Software") are provided by Elias Lindholm ("The Author") under the following terms and conditions:
 
@@ -58,4 +56,4 @@ This license is based on the Creative Commons Attribution-NonCommercial-NoDeriva
 
 ---
 
-For general inquiries or commercial use requests, contact [Your Email Address].
+For general inquiries or commercial use requests, please open a Pull Request (PR) in this repository.
