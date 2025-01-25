@@ -1,0 +1,61 @@
+# License Type: Custom License (Derived from CC BY-NC-ND 4.0)
+
+Custom License for Zylint
+
+This software and associated documentation files (the "Software") are provided by Elias Lindholm ("The Author") under the following terms and conditions:
+
+---
+
+### Base License
+This license is based on the Creative Commons Attribution-NonCommercial-NoDerivatives 4.0 International (CC BY-NC-ND 4.0) license, with the following additional restrictions and clarifications:
+
+---
+
+### 1. **Usage Restrictions**
+   - You may use the Software only for personal, educational, or non-commercial purposes.
+   - Commercial use, including but not limited to integrating the Software into products, services, or systems that generate revenue, is strictly prohibited unless explicitly authorized.
+
+---
+
+### 2. **Requesting Commercial Use**
+   - To obtain permission for commercial use:
+     1. **Open a Pull Request (PR):** Submit a pull request in this repository titled "Request for Commercial Use."
+     2. **Provide Details:** Include the following information in the PR description:
+        - Intended use case of the Software.
+        - Description of the product, service, or project where the Software will be used.
+        - Expected revenue or scale of use.
+        - Your contact details for further discussion.
+     3. **Approval Process:** The Author will review your request and, if approved, merge the PR with a comment granting permission.
+     4. **License Grant:** Commercial use is granted only upon written approval from the Author.
+
+---
+
+### 3. **Prohibition of Forking and Redistribution**
+   - Forking, cloning, or redistributing this Software on any public or private platform is strictly prohibited.
+   - Unauthorized distribution or derivative works are not allowed.
+
+---
+
+### 4. **Contribution Terms**
+   - By submitting contributions to this repository, you agree that:
+     - Your contributions become the property of The Author.
+     - Contributions are subject to the same terms and restrictions as this license.
+
+---
+
+### 5. **Monitoring and Enforcement**
+   - The Author reserves the right to monitor the usage of this Software and enforce license terms, including taking action against unauthorized commercial use.
+
+---
+
+### 6. **No Warranty**
+   - THE SOFTWARE IS PROVIDED "AS IS," WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE, AND NONINFRINGEMENT. THE AUTHOR SHALL NOT BE LIABLE FOR ANY CLAIM, DAMAGES, OR OTHER LIABILITY ARISING FROM THE USE OF THE SOFTWARE.
+
+---
+
+### 7. **Termination**
+   - This license is terminated automatically if any terms are violated. Upon termination, you must delete all copies of the Software in your possession.
+
+---
+
+For general inquiries or commercial use requests, contact [Your Email Address].
